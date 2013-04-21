@@ -1,0 +1,23 @@
+# no trailing slashes on dirs
+# no spaces or special characters supported
+# don't list a host without any dirs
+
+# myhost.com:
+#   login: darryl
+#   dirs: 
+#     /etc
+#     /home/darryl
+#     /var/mysql-dumps/current
+#     /var/log
+#     /var/www
+
+# localhost:
+#   port: 50
+#   login: root
+#   dirs:
+#     /usr/local
+#     /home/bebop/project
+#     /var/svn
+#     /var/www
+#     /etc
+
